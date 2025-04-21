@@ -1,0 +1,5 @@
+pyrogram
+python-telegram-bot
+python-dotenv
+logging
+asyncio

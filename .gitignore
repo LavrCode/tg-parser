@@ -1,0 +1,30 @@
+# Файлы сессии Pyrogram
+user_session.session
+user_session.session-journal
+
+# Файлы сессии Telegram Bot
+bot_session.session
+bot_session.session-journal
+
+# Файлы загрузки
+downloads/
+
+# Файлы окружения
+.env
+.venv
+
+# Кэшированные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Логи
+*.log
+
+# Остальные временные файлы
+*.tmp
+*.swp
+*~
+
+# Исключаем bot_copy.py
+bot_copy.py
