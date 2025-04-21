@@ -15,7 +15,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone tg-parser
+    git clone https://github.com/LavrCode/tg-parser
     cd tg-parser
     ```
 
